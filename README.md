@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Ramiaramanana Sompitriniaina To Désiré
+## Hi there 👋, I'm To Désiré
 # 💫 About Me:
 I do backend development and want to make games.
 
